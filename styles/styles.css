@@ -224,3 +224,117 @@ color: #FFFFFF;
   border-radius: 30px;
 
 }
+  /* stories styles */
+  .gradean{
+    background-image: linear-gradient(white,rgba(254, 163, 1, 0.3));
+  }
+  .story-title{
+    font-weight: 700;
+    font-size: 2.87rem;
+    text-align: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 80px;}
+ /* box styles */
+ .story-big-box{
+  max-width: 540px;
+  height: 615px;
+  background-color: white;
+  border-radius: 16px;
+  margin-right: 19px;
+
+ }
+ .big-story-img{
+  max-width: 540px;
+  height: 337px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+ }
+ .big-btn{
+  background-color: #3CD8E8;
+  padding: 14px 19px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: white;
+  border-style: none;
+  border-radius: 47px;
+  margin-top: -24px;
+  margin-left: 38px;
+  margin-bottom: 33px;
+ }
+ .big-story-title{
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-bottom: 51px;
+  margin-left: 38px;
+ }
+ .big-description{
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: #666666;
+  margin-left: 38px;
+ }
+ /* box */
+ .story-box1{
+  max-width: 290px;
+  height: 301px;
+  background-color: white;
+  border-radius: 16px;
+
+ }
+ .box-img{
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+ }
+ .primary-btn{
+  font-weight: 500;
+  font-size: 1.25rem;
+  padding: 10px 19px;
+  border-radius: 47px;
+  color: white;
+  background-color: #95B226;
+  margin-top: -19px;
+  margin-left: 38px;
+  border-style: none;
+ }
+ .primary-btno{
+  font-weight: 500;
+  font-size: 1.25rem;
+  padding: 10px 19px;
+  border-radius: 47px;
+  color: white;
+  background-color: #5D58F0;
+  margin-top: -19px;
+  margin-left: 38px;
+  border-style: none;
+ }
+ .box-title{
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin-top: 23px;
+  margin-bottom: 33px;
+ }
+ .story-boxed{
+  display: flex;
+  max-width: 1160px;
+  height: 630px;
+  margin-top: 80px;
+ }
+ .story-box{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+ }
+ .story-box1{
+ margin-right: 19px;
+ }
+ .end-btn{
+  background-color: black;
+  padding: 10px 61px;
+  color: white;
+  border-style: none;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-top: 25px;
+  
+ }
