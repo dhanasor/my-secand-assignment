@@ -338,3 +338,38 @@ color: #FFFFFF;
   margin-top: 25px;
   
  }
+  /* footer styles */
+  .footered{
+    background-color: #01ACFD;
+    width: 100%;
+    height: 519px;
+   }
+   .footer-container{
+    display: flex;
+    justify-content: center;
+    color: white;
+    
+   }
+   .inline{
+    display: flex;
+    margin-bottom: 33px;
+   }
+   
+   .footer-colums{
+    margin-top: 123px;
+    margin-right: 170px;
+   }
+   .footer-colums1{
+   margin-left: 147px;
+   margin-top: 123px;
+   margin-right: 170px;
+   
+   }
+   .footer-title3{
+    font-weight: 700;
+    font-size: 1.62rem;
+    margin-bottom: 33px;
+   }
+   .footer-title2{
+    margin-bottom: 33px;
+   }
